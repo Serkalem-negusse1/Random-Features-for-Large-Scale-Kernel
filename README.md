@@ -5,6 +5,7 @@ Implementation of the paper ["Random Features for Large-Scale Kernel Machines"](
 - **Random Binning Features (RBF)** for separable kernels (e.g., Laplacian).
 - Theoretical convergence bounds and empirical comparisons with kernel SVMs.
 
+
 ## Usage
 1. Clone the repository:
    ```bash
